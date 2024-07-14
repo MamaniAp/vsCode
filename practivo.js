@@ -1,1 +1,2 @@
-//primera configuracion de un repositorio guardado en fit
+//primera configuracion de un repositorio guardado en git
+//hola

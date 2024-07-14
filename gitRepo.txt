@@ -1,3 +1,3 @@
 git init
 es para inicializar un repositorio de forma remota sin que se tenga que estar conectado a la red y se guarden todas las configuracion que se esta asiendo en el proyecto.
-
+hola
