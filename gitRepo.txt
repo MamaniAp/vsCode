@@ -4,3 +4,4 @@ hola
 git add .
 "git add ." toma una instantánea de los cambios actuales en el directorio de trabajo y los prepara para ser confirmados en el próximo commit.
 git commit -m "modificar mensaje"
+practicar la funcion snipper que ayuda a generar codigo ya programado sin necesidad de escribir mucho codigio
